@@ -1,0 +1,14 @@
+# riva-user 7.1.2 N2G47H V9.1.8.0.NCKMIEI release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: riva
+- flavor: riva-user
+- release: 7.1.2
+- id: N2G47H
+- incremental: V9.1.8.0.NCKMIEI
+- tags: release-keys
+- fingerprint: Xiaomi/riva/riva:7.1.2/N2G47H/V9.1.8.0.NCKMIEI:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: riva-user-7.1.2-N2G47H-V9.1.8.0.NCKMIEI-release-keys
+- repo: xiaomi_riva_dump
